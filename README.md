@@ -6,6 +6,7 @@ Files for the Intro to Matlab workshops, presented by the IDEA Student Center of
 
 ## Installation
 Beginning this year (2016), MathWorks provides free student Matlab licenses to all UC San Diego students. To install Matlab:
+
 1. go to the Matlab license site: https://matlab.ucsd.edu/student.html
 2. follow the "Get Access" instructions:
     1. create a MathWorks account with your @ucsd.edu email address
@@ -15,6 +16,7 @@ Beginning this year (2016), MathWorks provides free student Matlab licenses to a
 
 ### Matlab Online
 If you are unable to install Matlab on your computer, MathWorks now offers Matlab Online, a service for running Matlab through your web-browser. By signing up for a MathWorks account (using your @ucsd.edu email address), you are granted access to Matlab Online:
+
 1. go to the Matlab Online login page: https://matlab.mathworks.com/
 2. log in with your MathWorks account
 
